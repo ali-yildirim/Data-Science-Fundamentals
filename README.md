@@ -1,3 +1,3 @@
 # Data-Science-Fundamentals
 
-This repository
+This repository is dedicated to the fundamental libraries
